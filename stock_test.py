@@ -177,7 +177,7 @@ q3 = lambda:  graph(f,alg)
 vis_button=b=Button(scr,bd=15,bg='black',fg='RED',relief='sunken',state='normal',text='VISUALIZE',command=q3)
 vis_button.place(x=700,y=400)
 
-
+#END
 
 
 
